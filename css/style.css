@@ -1,14 +1,24 @@
 #main {
-    background: gray ;
-    text-align: center;
+  background: gray;
+  text-align: center;
 }
 
 #img-div {
-    width: 80vw;
-    margin: auto;
+  width: 80vw;
+  margin: auto;
 }
 
-#image {   
-    width: 100%;
-    object-fit: cover ;
+#image {
+  width: 100%;
+  object-fit: cover;
+}
+#tribute-info {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#tribute-link {
+  display: inline-block;
+  margin-top: 30px;
+  color: brown;
 }
