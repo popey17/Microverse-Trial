@@ -9,12 +9,14 @@
 }
 
 #image {
-  width: 100%;
+  display: block;
+  max-width: 100%;
   object-fit: cover;
 }
 #tribute-info {
   width: 70%;
   margin: 0 auto;
+  font-size: 1.5rem;
 }
 
 #tribute-link {
